@@ -315,7 +315,11 @@
                 "Laptop terlalu panas",
                 "Overheating",
                 "Laptop suka panas",
-                "Laptopnya Overheat"
+                "Laptopnya Overheat",
+                "Laptop cepat panas",
+                "Laptop sering mati karena panas",
+                "Suhu laptop terlalu tinggi",
+                "Laptop overheat setelah digunakan beberapa lama"
             ],
             "responses": [
                 "Masalah overheating pada laptop bisa disebabkan oleh kipas yang kotor atau pendingin yang tidak efektif. Pastikan laptop Anda memiliki ventilasi yang baik dan coba bersihkan kipas dari debu secara berkala."
@@ -339,7 +343,11 @@
             "patterns": [
                 "Layar laptop biru",
                 "Blue screen",
-                "Ini layar laptopnya biru kenapa ya?"
+                "Ini layar laptopnya biru kenapa ya?",
+                "Layar laptop tiba-tiba berubah menjadi biru",
+                "Layar laptop error dengan tampilan warna biru",
+                "Layar laptop blue screen setelah booting",
+                "Layar laptop sering muncul blue screen saat digunakan"
             ],
             "responses": [
                 "Jika Anda mengalami blue screen of death (BSOD), ini bisa menjadi indikasi adanya masalah serius pada sistem operasi atau driver. Perbarui driver dan pastikan laptop Anda terlindungi dengan pembaruan keamanan terbaru."
@@ -352,7 +360,12 @@
                 "Baterai tidak terisi",
                 "Baterai bocor",
                 "batre bocor",
-                "Ini baterainya bocor kenapa ya?"
+                "Ini baterainya bocor kenapa ya?",
+                "Baterai laptop cepat habis",
+                "Baterai laptop tidak bisa digunakan lama",
+                "Baterai laptop tidak mengisi daya",
+                "Baterai laptop menurun kualitasnya",
+                "Baterai laptop bengkak"
             ],
             "responses": [
                 "Jika baterai laptop tidak bertahan lama atau tidak terisi dengan baik, coba kalibrasi baterai atau pertimbangkan untuk mengganti baterai jika sudah tua. Juga pastikan pengaturan daya laptop Anda sudah optimal."
@@ -362,7 +375,12 @@
             "tag": "laptop_screen_problems",
             "patterns": [
                 "Layar laptop tidak menyala",
-                "Layar laptop blank"
+                "Layar laptop blank",
+                "Layar laptop mati total",
+                "Layar laptop tidak menampilkan gambar",
+                "Layar laptop gelap",
+                "Layar laptop tidak responsif",
+                "Layar laptop blank setelah booting"
             ],
             "responses": [
                 "Jika layar laptop tidak menyala atau tetap hitam, periksa kabel konektor layar dan pastikan tidak ada masalah dengan inverter backlight. Jika masih tidak berhasil, ada kemungkinan kerusakan pada panel layar dan perlu diperbaiki oleh teknisi."
@@ -374,7 +392,12 @@
                 "Tidak bisa terhubung ke Wi-Fi",
                 "Masalah koneksi Wi-Fi",
                 "Wifinya engga bisa",
-                "Wifinya gak konek"
+                "Wifinya gak konek",
+                "Tidak bisa terhubung ke jaringan Wi-Fi",
+                "Wi-Fi tidak berfungsi",
+                "Tidak ada sinyal Wi-Fi pada laptop",
+                "Laptop tidak dapat menemukan jaringan Wi-Fi",
+                "Sulit terhubung ke Wi-Fi pada laptop"
             ],
             "responses": [
                 "Jika Anda mengalami masalah koneksi Wi-Fi, pastikan Anda telah memasukkan password yang benar dan jarak antara laptop dan router tidak terlalu jauh. Jika masih tidak terhubung, coba restart router dan periksa pengaturan jaringan pada laptop."
@@ -387,7 +410,11 @@
                 "Kerusakan hard drive",
                 "HDD rusak min",
                 "Hard Disknya rusak min",
-                "HDD error"
+                "HDD error",
+                "Laptop tidak bisa mengakses hard drive",
+                "Hard drive tidak terdeteksi oleh laptop",
+                "Laptop error setelah mengakses hard drive",
+                "Laptop mengalami kerusakan pada hard drive"
             ],
             "responses": [
                 "Jika hard drive laptop mengalami kerusakan atau kegagalan, Anda mungkin perlu mengganti hard drive tersebut. Pastikan Anda memiliki cadangan data yang penting dan konsultasikan dengan teknisi untuk melakukan penggantian hard drive yang tepat."
@@ -399,7 +426,11 @@
                 "Port USB rusak",
                 "Port USB tidak berfungsi",
                 "Ini USB gak bisa konek min",
-                "USB error"
+                "USB error",
+                "Port USB tidak dapat mendeteksi perangkat",
+                "USB tidak bisa digunakan pada laptop",
+                "Port USB tidak responsif",
+                "Tidak bisa menghubungkan perangkat ke port USB"
             ],
             "responses": [
                 "Jika port USB pada laptop rusak atau tidak berfungsi, periksa apakah ada kotoran atau kerusakan fisik di dalamnya. Jika perlu, Anda dapat mencoba membersihkan port atau menggunakan port USB tambahan seperti USB hub."
@@ -411,7 +442,11 @@
                 "Masalah suara laptop",
                 "Tidak ada suara dari laptop",
                 "Speaker laptonya gak ada suara",
-                "Speaker mati"
+                "Speaker mati",
+                "Tidak ada suara keluar dari speaker laptop",
+                "Suara laptop terdengar terdistorsi",
+                "Laptop tidak mengeluarkan suara sama sekali",
+                "Mengapa speaker laptop tidak berfungsi?"
             ],
             "responses": [
                 "Jika laptop tidak mengeluarkan suara atau mengalami suara yang terdistorsi, pastikan pengaturan suara di laptop sudah benar dan driver audio telah diinstal dengan benar. Jika masalah persisten, Anda mungkin perlu mengganti speaker laptop."
@@ -423,7 +458,11 @@
                 "Laptop lemot",
                 "Kinerja laptop lambat",
                 "Laptop nge lag",
-                "laptop lag"
+                "laptop lag",
+                "Laptop menjadi sangat lambat",
+                "Kinerja laptop menurun drastis",
+                "Laptop sering mengalami lagging",
+                "Bagaimana cara meningkatkan performa laptop?"
             ],
             "responses": [
                 "Jika laptop mengalami kinerja yang lambat, coba periksa penggunaan sumber daya seperti CPU dan RAM. Pastikan tidak ada program yang membebani laptop secara berlebihan. Anda juga dapat membersihkan file dan program yang tidak perlu atau mempertimbangkan peningkatan komponen hardware."
@@ -434,7 +473,10 @@
             "patterns": [
                 "Laptop terinfeksi virus",
                 "Virus di laptop",
-                "Laptop kenak virus"
+                "Laptop kenak virus",
+                "Bagaimana cara menghapus virus dari laptop?",
+                "Laptop terinfeksi malware",
+                "Aplikasi laptop terkena serangan virus"
             ],
             "responses": [
                 "Jika laptop terinfeksi virus, pastikan Anda memiliki program antivirus yang terbaru dan lakukan pemindaian penuh. Hapus atau karantina file yang terdeteksi sebagai ancaman. Jika masalah persisten, konsultasikan dengan teknisi komputer."
@@ -444,7 +486,11 @@
             "tag": "laptop_screen_flickering",
             "patterns": [
                 "Layar laptop berkedip",
-                "Layar laptop berkedip-kedip"
+                "Layar laptop berkedip-kedip",
+                "Layar laptop berkedip terus",
+                "Layar laptop berkedip setelah booting",
+                "Layar laptop sering berkedip",
+                "Layar laptop berkedip setelah pemakaian beberapa saat"
             ],
             "responses": [
                 "Jika layar laptop berkedip atau berkedip-kedip, periksa apakah driver kartu grafis sudah terbaru. Juga, pastikan tidak ada masalah dengan kabel penghubung atau layar yang rusak. Jika diperlukan, konsultasikan dengan teknisi untuk perbaikan lebih lanjut."
@@ -456,7 +502,11 @@
                 "Laptop tidak bisa diisi daya",
                 "Masalah pengisian daya laptop",
                 "Laptonya gabisa ngecas",
-                "casannya error"
+                "casannya error",
+                "Baterai laptop tidak terisi saat dihubungkan ke charger",
+                "Laptop tidak mendapatkan daya saat dihubungkan ke adaptor",
+                "Tidak ada indikator pengisian daya pada laptop",
+                "Mengapa laptop saya tidak bisa dicharge?"
             ],
             "responses": [
                 "Jika laptop tidak bisa diisi daya, periksa kabel pengisi daya dan port charging laptop. Jika mungkin, coba menggunakan kabel dan charger yang berbeda. Jika masalah persisten, kemungkinan ada masalah dengan baterai atau komponen pengisian daya. Konsultasikan dengan teknisi untuk perbaikan lebih lanjut."
@@ -467,7 +517,10 @@
             "patterns": [
                 "Kesalahan driver",
                 "Driver laptop rusak",
-                "Driver laptop error"
+                "Driver laptop error",
+                "Pesan kesalahan driver muncul saat menghidupkan laptop",
+                "Laptop mengalami masalah setelah menginstal driver baru",
+                "Driver tidak berfungsi setelah pembaruan sistem operasi"
             ],
             "responses": [
                 "Jika mengalami kesalahan driver, periksa apakah driver sudah diperbarui ke versi terbaru. Jika masih ada masalah, coba uninstall dan install ulang driver yang bersangkutan. Jika masalah persisten, konsultasikan dengan teknisi komputer."
@@ -477,7 +530,11 @@
             "tag": "laptop_startup_issues",
             "patterns": [
                 "Laptop tidak bisa menyala",
-                "Masalah saat startup laptop"
+                "Masalah saat startup laptop",
+                "Laptop tidak bisa booting",
+                "Laptop stuck di layar startup",
+                "Laptop tidak bisa masuk ke Windows",
+                "Masalah saat laptop dihidupkan"
             ],
             "responses": [
                 "Jika laptop tidak bisa menyala atau mengalami masalah saat startup, coba periksa apakah baterai cukup terisi atau charger terhubung dengan baik. Juga, periksa apakah ada masalah dengan RAM atau hard drive. Jika masalah persisten, konsultasikan dengan teknisi komputer."
