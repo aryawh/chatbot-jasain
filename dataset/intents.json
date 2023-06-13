@@ -19,10 +19,10 @@
                 "Hallo Admin",
                 "Halo Admin",
                 "Hai Admin",
-				"Halo Chatbot",
-				"Ui",
-				"Uyy",
-				"Halo min"
+		"Halo Chatbot",
+		"Ui",
+		"Uyy",
+		"Halo min"
             ],
             "responses": [
                 "Halo, Selamat datang di JasaIn Chatbot!. Jika kamu mempunyai kendala, silahkan deskripsikan kendalamu ya!"
@@ -41,15 +41,15 @@
                 "Oke Makasih",
                 "Oke Terimakasih",
                 "Oke terimakasih atas bantuannya",
-				"Terima kasih",
-				"Trima kasih",
-				"Ty",
-				"Thx",
-				"Tysm",
-				"Makasi",
-				"Tenkyu",
-				"Thanks",
-				"Bye"
+		"Terima kasih",
+		"Trima kasih",
+		"Ty",
+		"Thx",
+		"Tysm",
+		"Makasi",
+		"Tenkyu",
+		"Thanks",
+		"Bye"
             ],
             "responses": [
                 "Sama-sama, Senang Bisa membantu!, Terimakasih telah menghubungi kami"
@@ -65,8 +65,8 @@
                 "Layar Hp saya tidak bisa disentuh",
                 "Layar Hp gak bisa disentuh",
                 "Touchscreen hp saya tidak berfungsi",
-				"Layar Hp mati",
-				"Layar Hp hitam"
+		"Layar Hp mati",
+		"Layar Hp hitam"
             ],
             "responses": [
                 "Handphone kamu harus ganti LCD, jangan lupa sesuaikan mereknya ya"
@@ -104,7 +104,7 @@
                 "Ponsel saya stuck di logo tidak mau menyala",
                 "Hp saya gak mau nyala cuma stuck di logo",
                 "Layar hp saat dinyalakan hanya ada gambar merek hp saja",
-				"Hp saya mati lalu nyala lagi"
+		"Hp saya mati lalu nyala lagi"
             ],
             "responses": [
                 "Handphone kamu mengalami bootlop, segera hubungi tukang servis andalanmu ya!"
@@ -333,8 +333,8 @@
                 "Laptop sering mati karena panas",
                 "Suhu laptop terlalu tinggi",
                 "Laptop overheat setelah digunakan beberapa lama",
-				"Laptopku hangat"
-				"Laptop hangat"
+		"Laptopku hangat"
+		"Laptop hangat"
             ],
             "responses": [
                 "Masalah overheating pada laptop bisa disebabkan oleh kipas yang kotor atau pendingin yang tidak efektif. Pastikan laptop Anda memiliki ventilasi yang baik dan coba bersihkan kipas dari debu secara berkala."
@@ -413,7 +413,7 @@
                 "Tidak ada sinyal Wi-Fi pada laptop",
                 "Laptop tidak dapat menemukan jaringan Wi-Fi",
                 "Sulit terhubung ke Wi-Fi pada laptop",
-				"Laptop saya gak ada internet"
+		"Laptop saya gak ada internet"
             ],
             "responses": [
                 "Jika Anda mengalami masalah koneksi Wi-Fi, pastikan Anda telah memasukkan password yang benar dan jarak antara laptop dan router tidak terlalu jauh. Jika masih tidak terhubung, coba restart router dan periksa pengaturan jaringan pada laptop."
@@ -447,7 +447,7 @@
                 "USB tidak bisa digunakan pada laptop",
                 "Port USB tidak responsif",
                 "Tidak bisa menghubungkan perangkat ke port USB"
-				"Colok ke USB laptop tidak bisa"
+		"Colok ke USB laptop tidak bisa"
             ],
             "responses": [
                 "Jika port USB pada laptop rusak atau tidak berfungsi, periksa apakah ada kotoran atau kerusakan fisik di dalamnya. Jika perlu, Anda dapat mencoba membersihkan port atau menggunakan port USB tambahan seperti USB hub."
