@@ -18,7 +18,11 @@
                 "Malem",
                 "Hallo Admin",
                 "Halo Admin",
-                "Hai Admin"
+                "Hai Admin",
+				"Halo Chatbot",
+				"Ui",
+				"Uyy",
+				"Halo min"
             ],
             "responses": [
                 "Halo, Selamat datang di JasaIn Chatbot!. Jika kamu mempunyai kendala, silahkan deskripsikan kendalamu ya!"
@@ -36,7 +40,16 @@
                 "Makasih atas Bantuannya",
                 "Oke Makasih",
                 "Oke Terimakasih",
-                "Oke terimakasih atas bantuannya"
+                "Oke terimakasih atas bantuannya",
+				"Terima kasih",
+				"Trima kasih",
+				"Ty",
+				"Thx",
+				"Tysm",
+				"Makasi",
+				"Tenkyu",
+				"Thanks",
+				"Bye"
             ],
             "responses": [
                 "Sama-sama, Senang Bisa membantu!, Terimakasih telah menghubungi kami"
@@ -51,7 +64,9 @@
                 "layar Hp sya mati tetapi masih ada suara notifikasi",
                 "Layar Hp saya tidak bisa disentuh",
                 "Layar Hp gak bisa disentuh",
-                "Touchscreen hp saya tidak berfungsi"
+                "Touchscreen hp saya tidak berfungsi",
+				"Layar Hp mati",
+				"Layar Hp hitam"
             ],
             "responses": [
                 "Handphone kamu harus ganti LCD, jangan lupa sesuaikan mereknya ya"
@@ -88,7 +103,8 @@
                 "Hp saya mati dan saat dinyalakan tidak bisa menyala hanya muncul logo saja",
                 "Ponsel saya stuck di logo tidak mau menyala",
                 "Hp saya gak mau nyala cuma stuck di logo",
-                "Layar hp saat dinyalakan hanya ada gambar merek hp saja"
+                "Layar hp saat dinyalakan hanya ada gambar merek hp saja",
+				"Hp saya mati lalu nyala lagi"
             ],
             "responses": [
                 "Handphone kamu mengalami bootlop, segera hubungi tukang servis andalanmu ya!"
@@ -116,7 +132,10 @@
             "patterns": [
                 "Saya punya kendala,hp saya gampang panas",
                 "Hp saya mudah panas",
-                "hp saya sering panas"
+                "hp saya sering panas",
+				"Hp saya kepanasan",
+				"Hp panas",
+				"Hp hangat"
             ],
             "responses": [
                 "Handphone kamu mengalami overheat, jangan sering sering menggunakan hp sambil di charge. Coba kurangi kecerahan dan matikan aplikasi yang berjalan di belakang. Jika masih sering mengalami overheat segera konsultasikan dengan rangers pilihan anda ya!"
@@ -172,10 +191,9 @@
                 "Definisi AC",
                 "Pengertian AC",
                 "Apa AC",
-                "AC"
             ],
             "responses": [
-                "AC atau Air Conditioner adalah alat yang berfungsi untuk menurunkan suhu atau temperature ruangan"
+                "AC atau Air Conditioner adalah alat yang berfungsi untuk menurunkan suhu atau temperature ruanganmu."
             ]
         },
         {
@@ -191,7 +209,7 @@
                 "AC Merek"
             ],
             "responses": [
-                "Menurut Tokopedia, merek AC yang terbaik antara lain adalah Daikin, Sharp, Panasonic, Gree, LG, Samsung, AUX, Changhong, Mitshubishi, Denpoo, Midea, Akari, Polytron"
+                "Menurut Tokopedia, merek AC yang terbaik antara lain adalah Daikin, Sharp, Panasonic, Gree, LG, Samsung, AUX, Changhong, Mitshubishi, Denpoo, Midea, Akari, Polytron."
             ]
         },
         {
@@ -204,17 +222,14 @@
                 "AC saya bermasalah",
                 "AC bermasalah",
                 "Masalah pada AC",
-                "Rusak",
                 "AC saya perlu diperbaiki",
                 "Perbaikan",
                 "Perbaikan AC",
                 "AC diperbaiki",
                 "Kerusakan AC",
-                "Kerusakan",
-                "Rusak"
             ],
             "responses": [
-                "Kerusakan pada AC dapat disebabkan oleh hal antara lain, part yang tidak dibersihkan, freon habis, bocor, kompresor rusak"
+                "Kerusakan pada AC dapat disebabkan oleh hal antara lain, part yang tidak dibersihkan, freon habis, bocor, kompresor rusak."
             ]
         },
         {
@@ -225,12 +240,11 @@
                 "Mengapa AC saya kotor?",
                 "AC saya tidak bersih",
                 "AC perlu dibersihkan",
-                "Kotor",
                 "AC tidak bersih",
                 "AC bau"
             ],
             "responses": [
-                "AC yang belum dibersihkan dapat menyebabkan masalah seperti udara tidak dingin dan segar"
+                "AC yang belum dibersihkan dapat menyebabkan masalah seperti udara tidak dingin dan segar, segera hubungi tukang rangers andalanmu ya!"
             ]
         },
         {
@@ -244,7 +258,7 @@
                 "Freon"
             ],
             "responses": [
-                "Freon membuat udara AC dingin, apabila AC kekurangan freon maka AC tidak akan bekerja dengan optimal"
+                "Freon membuat udara AC dingin, apabila AC kekurangan freon maka AC tidak akan bekerja dengan optimal, segera hubungi tukang rangers andalanmu untuk mengganti Freon ya!"
             ]
         },
 		{
@@ -258,7 +272,7 @@
                 "Unit outdoor"
             ],
             "responses": [
-                "Kerusakan pada bagian kompresor yang menyebabkan AC tidak bisa dingin. Kerusakan pada penunjang kompresor seperti kapasitor, kerusakan pada kipas pembuang panas, serta kerusakan relay penyalur listrik ke outdoor unit."
+                "Kerusakan pada bagian kompresor yang menyebabkan AC tidak bisa dingin. Kerusakan pada penunjang kompresor seperti kapasitor, kerusakan pada kipas pembuang panas, serta kerusakan relay penyalur listrik ke outdoor unit. Hubungi tukang rangers andalanmu ya!"
             ]
         },
         {
@@ -272,10 +286,9 @@
                 "Air AC",
                 "Air menetes dari AC",
                 "Air jatuh",
-                "Bocor"
             ],
             "responses": [
-                "Kebocoran air pada AC disebabkan oleh rusaknya pipa atau tabung penampung"
+                "Kebocoran air pada AC disebabkan oleh rusaknya pipa atau tabung penampung. Hubungi tukang rangers andalanmu ya!"
             ]
         },
         {
@@ -288,8 +301,8 @@
                 "Bagaimana cara membuka akun baru?"
             ],
             "responses": [
-                "Kamu bisa dengan mudah membuat akun baru dengan klik profile dibagian bawah, kemudian pencet button sign up",
-                "Pergi saja ke bagian profile dan ikuti klik button sign up"
+                "Kamu bisa dengan mudah membuat akun baru dengan klik profile dibagian bawah, kemudian pencet button sign up.",
+                "Pergi saja ke bagian profile dan ikuti klik button sign up."
             ]
         },
         {
@@ -304,8 +317,8 @@
                 "Ac saya rusak min"
             ],
             "responses": [
-                "Mohon berikan keluhanmu agar kami bisa membantumu",
-                "Silakan sebutkan keluhanmu, kami akan coba membantumu"
+                "Mohon berikan keluhanmu agar kami bisa membantumu.",
+                "Silakan sebutkan keluhanmu, kami akan coba membantumu."
             ]
         },
         {
@@ -319,7 +332,9 @@
                 "Laptop cepat panas",
                 "Laptop sering mati karena panas",
                 "Suhu laptop terlalu tinggi",
-                "Laptop overheat setelah digunakan beberapa lama"
+                "Laptop overheat setelah digunakan beberapa lama",
+				"Laptopku hangat"
+				"Laptop hangat"
             ],
             "responses": [
                 "Masalah overheating pada laptop bisa disebabkan oleh kipas yang kotor atau pendingin yang tidak efektif. Pastikan laptop Anda memiliki ventilasi yang baik dan coba bersihkan kipas dari debu secara berkala."
@@ -397,7 +412,8 @@
                 "Wi-Fi tidak berfungsi",
                 "Tidak ada sinyal Wi-Fi pada laptop",
                 "Laptop tidak dapat menemukan jaringan Wi-Fi",
-                "Sulit terhubung ke Wi-Fi pada laptop"
+                "Sulit terhubung ke Wi-Fi pada laptop",
+				"Laptop saya gak ada internet"
             ],
             "responses": [
                 "Jika Anda mengalami masalah koneksi Wi-Fi, pastikan Anda telah memasukkan password yang benar dan jarak antara laptop dan router tidak terlalu jauh. Jika masih tidak terhubung, coba restart router dan periksa pengaturan jaringan pada laptop."
@@ -431,6 +447,7 @@
                 "USB tidak bisa digunakan pada laptop",
                 "Port USB tidak responsif",
                 "Tidak bisa menghubungkan perangkat ke port USB"
+				"Colok ke USB laptop tidak bisa"
             ],
             "responses": [
                 "Jika port USB pada laptop rusak atau tidak berfungsi, periksa apakah ada kotoran atau kerusakan fisik di dalamnya. Jika perlu, Anda dapat mencoba membersihkan port atau menggunakan port USB tambahan seperti USB hub."
