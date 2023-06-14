@@ -190,7 +190,7 @@
                 "AC",
                 "Definisi AC",
                 "Pengertian AC",
-                "Apa AC",
+                "Apa AC"
             ],
             "responses": [
                 "AC atau Air Conditioner adalah alat yang berfungsi untuk menurunkan suhu atau temperature ruanganmu."
@@ -226,7 +226,7 @@
                 "Perbaikan",
                 "Perbaikan AC",
                 "AC diperbaiki",
-                "Kerusakan AC",
+                "Kerusakan AC"
             ],
             "responses": [
                 "Kerusakan pada AC dapat disebabkan oleh hal antara lain, part yang tidak dibersihkan, freon habis, bocor, kompresor rusak."
@@ -285,7 +285,7 @@
                 "AC berair",
                 "Air AC",
                 "Air menetes dari AC",
-                "Air jatuh",
+                "Air jatuh"
             ],
             "responses": [
                 "Kebocoran air pada AC disebabkan oleh rusaknya pipa atau tabung penampung. Hubungi tukang rangers andalanmu ya!"
@@ -333,7 +333,7 @@
                 "Laptop sering mati karena panas",
                 "Suhu laptop terlalu tinggi",
                 "Laptop overheat setelah digunakan beberapa lama",
-		"Laptopku hangat"
+		"Laptopku hangat",
 		"Laptop hangat"
             ],
             "responses": [
@@ -446,7 +446,7 @@
                 "Port USB tidak dapat mendeteksi perangkat",
                 "USB tidak bisa digunakan pada laptop",
                 "Port USB tidak responsif",
-                "Tidak bisa menghubungkan perangkat ke port USB"
+                "Tidak bisa menghubungkan perangkat ke port USB",
 		"Colok ke USB laptop tidak bisa"
             ],
             "responses": [
