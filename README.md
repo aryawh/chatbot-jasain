@@ -12,3 +12,5 @@ References:
 3. https://medium.com/aiguys/an-intent-based-chatbot-7efd08faa47c
 
 4. https://github.com/FreeBirdsCrew/AI_ChatBot_Python
+
+5. https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset
